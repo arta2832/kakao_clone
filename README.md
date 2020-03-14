@@ -1,3 +1,3 @@
 # kakao_clone
  
-Kakao Desktop App Clone on git hub
+Kakao Desktop App Clone
